@@ -73,7 +73,7 @@ Open **http://localhost:5000** in your browser.
 | Setting | Range | Description |
 |---------|-------|-------------|
 | Mode | Follow Track / Bird's Eye | First-person or overhead view |
-| Speed | 0.25x - 5x | Playback speed multiplier |
+| Speed | 0.25x - 15x | Playback speed multiplier |
 | Camera Altitude | 20m - 2000m | Height above track |
 | Camera Pitch | 0° - 85° | Viewing angle (0° = flat) |
 
@@ -82,7 +82,7 @@ Open **http://localhost:5000** in your browser.
 |---------|---------|-------------|
 | Resolution | 720p, 1080p, 1440p, 4K, Custom | Output video resolution |
 | Frame Rate | 24, 30, 60 FPS | Frames per second |
-| Format | WebM | Native browser support |
+| Format | WebM, MP4 (H.264) | Native browser support |
 
 ## 🏗️ Project Structure
 
