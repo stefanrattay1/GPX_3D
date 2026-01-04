@@ -24,7 +24,7 @@ Create stunning 3D flyover videos from your GPX tracks with satellite imagery an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GPX_3D.git
+git clone https://github.com/stefanrattay1/GPX_3D.git
 cd GPX_3D
 
 # Run the setup script
@@ -39,7 +39,7 @@ chmod +x setup.sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GPX_3D.git
+git clone https://github.com/stefanrattay1/GPX_3D.git
 cd GPX_3D
 
 # Create virtual environment
